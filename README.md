@@ -14,3 +14,4 @@ detection systems to be subject to zero-day manipulations and societal harm" (Er
 References:
 1. https://cloudguard.ai/resources/how-to-spot-a-deepfake/?utm_source=linkedin&utm_medium=CSH&utm_campaign=TAOD3
 2. https://arxiv.org/pdf/2601.03304
+3. https://www.paravision.ai/whitepaper-a-practical-guide-to-deepfake-detection/
