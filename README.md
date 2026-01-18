@@ -15,3 +15,4 @@ References:
 1. https://cloudguard.ai/resources/how-to-spot-a-deepfake/?utm_source=linkedin&utm_medium=CSH&utm_campaign=TAOD3
 2. https://arxiv.org/pdf/2601.03304
 3. https://www.paravision.ai/whitepaper-a-practical-guide-to-deepfake-detection/
+4. https://doi.org/10.1016/j.eswa.2024.124260
